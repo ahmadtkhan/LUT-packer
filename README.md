@@ -1,7 +1,7 @@
 # LUT-packer
 Maps 5 LUTs into minimum number of 6-LUTs. [Uses blossom algorithm to give an optimal solution](https://website.ahmadk.ca/LUT_packer/). <br>
 
-## Execution
+## Usage
 Create an executable using gcc and pass a blif file as an argument to the executable. Pipe the output to a file to store it. 
 
 ```bash
